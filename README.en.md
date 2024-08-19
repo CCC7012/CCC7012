@@ -1,9 +1,9 @@
-[fr|en]
+[[fr](README.md)|en]
 ## Personnal introduction
 
 ...
 
-### 
+### The languages I use
 
 - Python ❤
 - Java (currently learning)
