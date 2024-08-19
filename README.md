@@ -1,4 +1,4 @@
-[fr|en]
+[fr|[en](README.en.md)]
 ## Introduction personnelle
 
 Bienvenue
