@@ -1,3 +1,4 @@
+[fr|en]
 ## Introduction personnelle
 
 Bienvenue
