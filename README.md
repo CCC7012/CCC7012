@@ -14,14 +14,3 @@ Bienvenue
 
 [![Classement des languages (sans le markdown 😥) (lien vers le créateur du graphique)](https://github-readme-stats.vercel.app/api/top-langs/?username=CCC7012&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Personnal introduction
-
-...
-
-### 
-
-- Python ❤
-- Java (currently learning)
-- C++ (never used but I know the basics)
-
