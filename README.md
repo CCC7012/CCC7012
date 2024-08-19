@@ -5,8 +5,8 @@ Bienvenue
 
 ### Les languages que j'utilise
 
-- Python ❤
-- Java (en apprentissage) (askip boire du café aide à apprendre le java)
+- Python ❤ 
+- Java (en apprentissage) (askip boire du café aide à apprendre le java ☕)
 - C++ (connais les base mais jamais utilisé)
 
 - Markdown (je sais que c'est pas un language de programmation mais c'est toujours ça en plus)
